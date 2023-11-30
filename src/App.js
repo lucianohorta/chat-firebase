@@ -67,7 +67,6 @@ function SignIn() {
       <ButtonLogin className="sign-in" onClick={signInWithGoogle}>Sign in with Google</ButtonLogin>
     </>
   )
-
 }
 
 function SignOut() {
