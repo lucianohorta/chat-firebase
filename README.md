@@ -11,5 +11,7 @@ and
 
 I've used Firebase to store data (messages) and its authetication methods.    
 Further on I can add other login methods such as Facebook / Email / etc.
+<br>        
+<br>
 
-    
+![](https://raw.githubusercontent.com/lucianohorta/chat-firebase/main/src/img/chatprint.jpg)
